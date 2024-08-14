@@ -1,7 +1,9 @@
 - 👋 Hi, I’m Arslan Zulfiqar.
-- 👀 I’m interested in programming.
+- 👀 Doing Programming and building eyecatcing designs
 - 🌱 I’m currently studying in BS(Artificial Intelligence).
-- 💞️ I have an experience of developing eyecatching websites using wordpress. moreover I'm developing experience in html,css and javascript.
+- 🌱 Developing experience in html,css and javascript.
+- 💞️ I have an experience of developing eyecatching websites using wordpress.
+- 💞️ complete GHL(Go High Level) setup: Building automations, funnels, forms, surveys etc.
 - 📫 >> email : arslanzulfiqar.ry@gmail.com
 
 <!---
