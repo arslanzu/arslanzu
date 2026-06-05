@@ -1,67 +1,15 @@
-Hi, I'm Arslan Zulfiqar 👋
-
-🎓 BS Artificial Intelligence Student
-🤖 AI Engineer | 🌐 Web Developer | ⚡ Automation Specialist
-
-I'm passionate about building intelligent systems, automating business processes, and developing modern web applications that solve real-world problems.
+# 💫 About Me:
+Hi, I'm Arslan Zulfiqar 👋<br><br>🎓 BS Artificial Intelligence Student<br>🤖 AI Engineer | 🌐 Web Developer | ⚡ Automation Specialist<br><br>I'm passionate about building intelligent systems, automating business processes, and developing modern web applications that solve real-world problems.<br><br><br>🚀 About Me<br><br>🎓 Currently pursuing a Bachelor's degree in Artificial Intelligence<br>🤖 Exploring Machine Learning, Deep Learning, and AI-powered applications<br>🌐 Experienced in web development using WordPress, HTML, CSS, JavaScript, and modern web technologies<br>⚡ Specialize in workflow automation, CRM systems, and business process optimization<br>🔄 Building automations using GoHighLevel, APIs, Webhooks, Zapier, Make, and custom integrations<br>📚 Continuously learning software engineering, backend development, and AI technologies<br><br><br>💻 Technical Skills<br><br>Artificial Intelligence & Data Science<br>- Python<br>- Machine Learning<br>- Deep Learning<br>- Data Analysis<br>- AI Agents & Automation<br><br>Web Development<br>- HTML5<br>- CSS3<br>- JavaScript<br>- WordPress<br>- Responsive Design<br>- REST APIs<br>- Automation & CRM<br>- GoHighLevel (GHL)<br>- Zapier<br>- Make (Integromat)<br>- Webhooks<br><br>API Integrations<br>- Workflow Automation<br>- Tools & Technologies<br>- Git & GitHub<br>- VS Code<br>- ChatGPT<br>- Claude<br>- Gemini<br><br><br>🎯 Current Focus<br>- Building AI-powered solutions<br>- Learning backend development with Python<br>- Developing intelligent automation systems<br>- Creating scalable web applications<br>- Exploring LLMs, AI Agents, and Generative AI<br><br><br>📈 What I Believe<br><br>Technology should simplify complexity. Whether it's AI, automation, or software development, my goal is to create solutions that save time, improve efficiency, and deliver meaningful results.<br><br>📫 Connect With Me<br>LinkedIn: www.linkedin.com/in/arslan-zulfiqar/<br>Email: arslanzulfiqar.ryk@gmail.com<br><br>⭐ Always open to collaborating on AI, automation, and software development projects.
 
 
-🚀 About Me
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arslan.zulfiqar.733) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arslan-zulfiqar/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Arslan-Zulfiqar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arslanzulfiqar.ryk@gmail.com) 
 
-🎓 Currently pursuing a Bachelor's degree in Artificial Intelligence
-🤖 Exploring Machine Learning, Deep Learning, and AI-powered applications
-🌐 Experienced in web development using WordPress, HTML, CSS, JavaScript, and modern web technologies
-⚡ Specialize in workflow automation, CRM systems, and business process optimization
-🔄 Building automations using GoHighLevel, APIs, Webhooks, Zapier, Make, and custom integrations
-📚 Continuously learning software engineering, backend development, and AI technologies
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=arslanzu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=arslanzu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=arslanzu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-💻 Technical Skills
-
-Artificial Intelligence & Data Science
-- Python
-- Machine Learning
-- Deep Learning
-- Data Analysis
-- AI Agents & Automation
-
-Web Development
-- HTML5
-- CSS3
-- JavaScript
-- WordPress
-- Responsive Design
-- REST APIs
-- Automation & CRM
-- GoHighLevel (GHL)
-- Zapier
-- Make (Integromat)
-- Webhooks
-
-API Integrations
-- Workflow Automation
-- Tools & Technologies
-- Git & GitHub
-- VS Code
-- ChatGPT
-- Claude
-- Gemini
-
-
-🎯 Current Focus
-- Building AI-powered solutions
-- Learning backend development with Python
-- Developing intelligent automation systems
-- Creating scalable web applications
-- Exploring LLMs, AI Agents, and Generative AI
-
-
-📈 What I Believe
-
-Technology should simplify complexity. Whether it's AI, automation, or software development, my goal is to create solutions that save time, improve efficiency, and deliver meaningful results.
-
-📫 Connect With Me
-LinkedIn: www.linkedin.com/in/arslan-zulfiqar/
-Email: arslanzulfiqar.ryk@gmail.com
-
-⭐ Always open to collaborating on AI, automation, and software development projects.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
