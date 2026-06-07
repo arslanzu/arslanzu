@@ -10,4 +10,3 @@ Hi, I'm Arslan Zulfiqar 👋<br><br>🎓 BS Artificial Intelligence Student<br>�
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arslanzu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
